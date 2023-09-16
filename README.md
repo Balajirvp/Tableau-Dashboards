@@ -21,7 +21,7 @@ If you share my passion for visual storytelling and data representation, I hope 
 
 The pdf containing these images can be found here - 
 
-https://github.com/Balajirvp/Tableau-Dashboards/blob/main/Earthquake/Earthquake%20Viz.pdf
+https://github.com/Balajirvp/Tableau-Dashboards/blob/main/Earthquakes/Earthquake%20Viz.pdf
 
 ![image](https://github.com/Balajirvp/Tableau-Dashboards/assets/104417912/d89204a5-d14e-459d-86b0-18600b75f89f)
 
